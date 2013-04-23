@@ -1,0 +1,5 @@
+2. Composition of the Board. There shall be three categories of Directors, each consisting
+of four Directors, or one third of the total Board. The three categories shall be “Lessee
+Representatives” representing Lessee Members, “General Representatives” representing
+General Members, and “Public Representatives” representing the interests of the general
+public.
